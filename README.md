@@ -1,3 +1,4 @@
 # Tugas_Looping
 Nama : Siti Wahidah
-/nNim  : 20190040062
+
+Nim  : 20190040062
